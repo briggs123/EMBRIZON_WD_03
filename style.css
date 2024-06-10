@@ -8,8 +8,8 @@ html {
   scroll-behavior: smooth;
 }
 body {
-  background: #808080;
-  color: #7F00FF;
+  background: grey;
+  color: white;
 }
 #header {
   width: 100%;
